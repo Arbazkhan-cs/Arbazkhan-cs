@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arbaz Khan</h1>
 <h3 align="center">A passionate Data Science And Machine Learning</h3>
 
+<img align="right" alt="Codding" width="400" src="![Site-Stats](https://github.com/Arbazkhan-cs/Arbazkhan-cs/assets/121720813/bd73ae75-c3a3-4444-ad12-cdc4fcf27070)
+">
+
 - 🔭 I’m currently working on [Data Science || Machine Learning Projects](https://github.com/Arbazkhan-cs/AI-Powered-Image-Captioning)
 
 - 🌱 I’m currently learning **Natural Language Processing**
