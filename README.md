@@ -11,8 +11,8 @@
 - 🎯 Projects: Netflix Clone, Weather Application, React Apps <br>
 - 🤝 Collaborated on a website for Enactus Organization's MSI Branch <br>
 - 🧠 Passion for Data Science and Machine Learning <br>
-- 🔍 Learning and exploring: supervised machine learning, pandas, matplotlib, TensorFlow, scikit-learn, and more<br>
-- 🏆 Completed projects: real estate price prediction, coffee prediction model<br>
+- 🔍 Gained Some Learning: supervised machine learning, pandas, matplotlib, TensorFlow, scikit-learn, and more<br>
+- 🏆 Completed projects: AI-Powered Image Captioning, Recommandation System, etc<br>
 - 🌟 Thrilling journey with a willingness to learn and experiment <br>
 - 🚀 Excited about the possibilities in Data Science and Machine Learning for the future <br>
 
