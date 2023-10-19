@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Arbaz Khan</h1>
 ## Introduction
-<img src="https://readme-typing-svg.demolab.com/?lines=A%20of%20ChatCool%20Bot;Passionate%20to%201500+%2B%20DataScience%20And%20MachineLearning&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /></a>
+<img src="https://readme-typing-svg.demolab.com/?lines=A%20Passionate%20DataScience%20And%20MachineLearning&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /></a>
 </p>
 
 <img align="right" alt="Codding" width="400" src="https://github.com/Arbazkhan-cs/Arbazkhan-cs/blob/main/Site-Stats-unscreen.gif">
