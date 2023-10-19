@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arbaz Khan</h1>
 <h3 align="center">A passionate Data Science And Machine Learning</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arbazkhan-cs" alt="arbazkhan-cs" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on **ML/DS Projects**
 
