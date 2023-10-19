@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Arbaz Khan</h1>
 <h3 align="center">A passionate Data Science And Machine Learning</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arbazkhan-cs&label=Profile%20views&color=0e75b6&style=flat" alt="arbazkhan-cs" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arbazkhan-cs" alt="arbazkhan-cs" /></a> </p>
 
-- 🔭 I’m currently working on **NLP**
+- 🔭 I’m currently working on **ML/DS Projects**
 
 - 🌱 I’m currently learning **Natural Language Processing**
 
-- 💬 Ask me about **Dat Science**
+- 💬 Ask me about **Dat Science/Machine Learning**
 
 - 📫 How to reach me **https://www.linkedin.com/in/arbaz-khan-106343260/**
 
