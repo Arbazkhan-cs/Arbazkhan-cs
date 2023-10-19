@@ -5,16 +5,16 @@
 
 <img align="right" alt="Codding" width="400" src="https://github.com/Arbazkhan-cs/Arbazkhan-cs/blob/main/Site-Stats-unscreen.gif">
 <h2>About Me</h2>
-👦 Started coding in 9th grade
-📚 Pursuing a BCA course
-💻 Dived into Full Stack Development in the first semester
-🎯 Projects: Netflix Clone, Weather Application, React Apps
-🤝 Collaborated on a website for Enactus Organization's MSI Branch
-🧠 Passion for Data Science and Machine Learning
-🔍 Learning and exploring: supervised machine learning, pandas, matplotlib, TensorFlow, scikit-learn, and more
-🏆 Completed projects: real estate price prediction, coffee prediction model
-🌟 Thrilling journey with a willingness to learn and experiment
-🚀 Excited about the possibilities in Data Science and Machine Learning for the future
+- 👦 Started coding in 9th grade
+- 📚 Pursuing a BCA course
+- 💻 Dived into Full Stack Development in the first semester
+- 🎯 Projects: Netflix Clone, Weather Application, React Apps
+- 🤝 Collaborated on a website for Enactus Organization's MSI Branch
+- 🧠 Passion for Data Science and Machine Learning
+- 🔍 Learning and exploring: supervised machine learning, pandas, matplotlib, TensorFlow, scikit-learn, and more
+- 🏆 Completed projects: real estate price prediction, coffee prediction model
+- 🌟 Thrilling journey with a willingness to learn and experiment
+- 🚀 Excited about the possibilities in Data Science and Machine Learning for the future
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
