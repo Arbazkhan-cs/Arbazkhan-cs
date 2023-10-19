@@ -1,3 +1,5 @@
+<img src="https://github.com/Arbazkhan-cs/Arbazkhan-cs/blob/main/Blue%20and%20White%20Gradient%20Profile%20Data%20Analyst%20LinkedIn%20Article%20Cover%20Image.gif">
+
 <h1 align="center">Hi 👋, I'm Arbaz Khan</h1>
 <h3 align="center">A passionate Data Science And Machine Learning</h3>
 
