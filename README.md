@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arbaz Khan</h1>
 <h3 align="center">A passionate Data Science And Machine Learning</h3>
 
-<img align="right" alt="Codding" width="400" src="https://stockpulse.ai/wp-content/uploads/2022/03/Site-Stats.gif">
+<img align="right" alt="Codding" width="400" src="https://github.com/Arbazkhan-cs/Arbazkhan-cs/blob/main/Site-Stats-unscreen.gif">
 
 - 🔭 I’m currently working on [Data Science || Machine Learning Projects](https://github.com/Arbazkhan-cs/AI-Powered-Image-Captioning)
 
