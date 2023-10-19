@@ -1,9 +1,9 @@
 <img src="https://github.com/Arbazkhan-cs/Arbazkhan-cs/blob/main/Blue%20and%20White%20Gradient%20Profile%20Data%20Analyst%20LinkedIn%20Article%20Cover%20Image.gif">
 
 <h1 align="center">Hi 👋, I'm Arbaz Khan</h1>
-
-<img src="https://readme-typing-svg.demolab.com/?lines=A%20Passionate%20Data%20Science%20And%20Machine%20Learning&center=true&width=700&height=40&color=ffffff&vCenter=true&pause=1000&size=25" align="center"/> <br>
-
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com/?lines=A%20Passionate%20Data%20Science%20And%20Machine%20Learning&center=true&width=700&height=40&color=ffffff&vCenter=true&pause=1000&size=25" /> <br>
+</p>
 
 <img align="right" alt="Codding" width="400" src="https://github.com/Arbazkhan-cs/Arbazkhan-cs/blob/main/Site-Stats-unscreen.gif">
 <h2>About Me</h2>
