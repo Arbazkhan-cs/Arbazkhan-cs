@@ -4,16 +4,17 @@
 <h3 align="center">A passionate Data Science And Machine Learning</h3>
 
 <img align="right" alt="Codding" width="400" src="https://github.com/Arbazkhan-cs/Arbazkhan-cs/blob/main/Site-Stats-unscreen.gif">
-
-- 🔭 I’m currently working on [Data Science || Machine Learning Projects](https://github.com/Arbazkhan-cs/AI-Powered-Image-Captioning)
-
-- 🌱 I’m currently learning **Natural Language Processing**
-
-- 💬 Ask me about **Dat Science or Machien Learning**
-
-- 📫 How to reach me **https://www.linkedin.com/in/arbaz-khan-106343260/**
-
-- ⚡ Fun fact **My thoughts have their own thoughts!🤯**
+<h2>About Me</h2>
+👦 Started coding in 9th grade
+📚 Pursuing a BCA course
+💻 Dived into Full Stack Development in the first semester
+🎯 Projects: Netflix Clone, Weather Application, React Apps
+🤝 Collaborated on a website for Enactus Organization's MSI Branch
+🧠 Passion for Data Science and Machine Learning
+🔍 Learning and exploring: supervised machine learning, pandas, matplotlib, TensorFlow, scikit-learn, and more
+🏆 Completed projects: real estate price prediction, coffee prediction model
+🌟 Thrilling journey with a willingness to learn and experiment
+🚀 Excited about the possibilities in Data Science and Machine Learning for the future
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
