@@ -27,7 +27,16 @@
 <p align="center">
 <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Arbazkhan-cs&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
 </p>
-
+<h3 align="center">Statistics</h3>
+<div align="center">
+  <a href="https://github.com/MasterMindRomii">
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Arbazkhan-cs&theme=2077" height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Arbazkhan-cs&theme=gruvbox" bg_color=151515 height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Arbazkhan-cs&theme=gruvbox" bg_color=151515 height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Arbazkhan-cs&theme=gruvbox" bg_color=151515 height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arbazkhan-cs&theme=gruvbox" bg_color=151515 height="180em" />
+  </a>
+</div>
 ## Activity On GitHub
 
 <p align="center">
