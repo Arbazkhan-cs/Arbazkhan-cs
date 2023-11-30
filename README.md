@@ -41,9 +41,9 @@
 
 ## Activity On GitHub
 <p align="center">
-  <a href="https://github.com/Arbazkhaan-cs">      
+  <a href="https://github.com/Arbazkhan-cs">      
 <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Arbazkhan-cs&theme=dark&hide_border=true&stroke=f53b3b"/>
-</a> 
+  </a> 
 </p>
 
 
