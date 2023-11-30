@@ -28,10 +28,10 @@
   <a href="https://github.com/Arbazkhan-cs">
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Arbazkhan-cs&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
 <br>
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Arbazkhan-cs&theme=gruvbox" bg_color=151515 height="180em" />
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Arbazkhan-cs&theme=gruvbox" bg_color=151515 height="180em" />     <br>
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Arbazkhan-cs&theme=gruvbox" bg_color=151515 height="180em" />
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arbazkhan-cs&theme=gruvbox" bg_color=151515 height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Arbazkhan-cs&theme=gruvbox&bg_color=151515" height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Arbazkhan-cs&theme=gruvbox&bg_color=151515" height="180em" />     <br>
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Arbazkhan-cs&theme=gruvbox&bg_color=151515" height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arbazkhan-cs&theme=gruvbox&bg_color=151515" height="180em" />
   </a>
 </div>
 
