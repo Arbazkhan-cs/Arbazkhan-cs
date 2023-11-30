@@ -34,8 +34,8 @@
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arbazkhan-cs&theme=gruvbox" bg_color=151515 height="180em" />
   </a>
 </div>
-## Activity On GitHub
 
+## Activity On GitHub
 <p align="center">
   <a href="https://github.com/Arbazkhaan-cs">      
 <img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Arbazkhan-cs&theme=dark&hide_border=true&stroke=f53b3b"/>
