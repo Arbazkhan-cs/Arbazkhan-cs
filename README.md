@@ -8,7 +8,7 @@
 </a>
 
 <a href="https://github.com/Arbazkhan-cs">
-  <img align="right" alt="Codding" width="400" src="https://github.com/Arbazkhan-cs/Arbazkhan-cs/blob/main/Site-Stats-unscreen.gif">
+  <img align="right" alt="Codding" width="400" src="https://github.com/Arbazkhan-cs/Arbazkhan-cs/blob/main/2-unscreen.gif">
 </a>
 <h2>About Me</h2>
 - 👦 Started coding in 9th grade <br>
