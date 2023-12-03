@@ -1,4 +1,4 @@
-<!--<img src="https://github.com/Arbazkhan-cs/Arbazkhan-cs/blob/main/Blue%20and%20White%20Gradient%20Profile%20Data%20Analyst%20LinkedIn%20Article%20Cover%20Image.gif"> -->
+<img src="https://github.com/Arbazkhan-cs/Arbazkhan-cs/blob/main/Blue%20and%20White%20Gradient%20Profile%20Data%20Analyst%20LinkedIn%20Article%20Cover%20Image.gif">
 
 <h1 align="center">Hi 👋, I'm Arbaz Khan</h1>
 <a href="https://github.com/Arbazkhan-cs">
