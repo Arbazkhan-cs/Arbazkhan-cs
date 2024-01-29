@@ -1,4 +1,4 @@
-<img src="https://github.com/Arbazkhan-cs/Arbazkhan-cs/blob/main/banner.gif">
+<!--<img src="https://github.com/Arbazkhan-cs/Arbazkhan-cs/blob/main/banner.gif">-->
 
 <h1 align="center">Hi 👋, I'm Arbaz Khan</h1>
 <a href="https://github.com/Arbazkhan-cs">
@@ -12,7 +12,7 @@
 </a>
 <h2>About Me</h2>
 - 👦 Started coding in 9th grade <br>
-- 📚 Pursuing a BCA course <br>
+- 📚 Pursuing BCA Specialisation in AI course <br>
 - 💻 Dived into Full Stack Development in the first semester <br>
 - 🎯 Projects: Netflix Clone, Weather Application, React Apps <br>
 - 🤝 Collaborated on a website for Enactus Organization's MSI Branch <br>
