@@ -11,10 +11,7 @@
   <img align="right" alt="Codding" width="400" src="https://github.com/Arbazkhan-cs/Arbazkhan-cs/blob/main/Site-Stats-unscreen.gif">
 </a>
 <h2>About Me</h2>
-- 👦 Started coding in 9th grade <br>
 - 📚 Pursuing BCA Specialisation in AI course <br>
-- 💻 Dived into Full Stack Development in the first semester <br>
-- 🎯 Projects: Netflix Clone, Weather Application, React Apps <br>
 - 🤝 Collaborated on a website for Enactus Organization's MSI Branch <br>
 - 🧠 Passion for Data Science and Machine Learning <br>
 - 🔍 Gained Some Learning: supervised machine learning, pandas, matplotlib, TensorFlow, scikit-learn, and more<br>
