@@ -1,4 +1,4 @@
-<!--<img src="https://github.com/Arbazkhan-cs/Arbazkhan-cs/blob/main/banner.gif">-->
+<img src="https://github.com/Arbazkhan-cs/Arbazkhan-cs/blob/main/arbaz.png">
 
 <h1 align="center">Hi 👋, I'm Arbaz Khan</h1>
 <a href="https://github.com/Arbazkhan-cs">
