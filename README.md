@@ -51,4 +51,4 @@
    <a href="https://github.com/Arbazkhan-cs/Enactus-Project"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Arbazkhan-cs&repo=Enactus-Project&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
   </p> -->
 # 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=arbazkhan-cs&theme=gruvbox">
+<img src="https://github-profile-trophy.vercel.app/?username=Arbazkhan-cs&title=Commits,Repositories,Experience,Starts,Followers">
