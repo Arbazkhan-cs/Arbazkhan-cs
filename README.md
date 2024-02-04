@@ -50,10 +50,10 @@
     <a href="https://github.com/Arbazkhan-cs/Movies-Recommend-System"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Arbazkhan-cs&repo=Movies-Recommend-System&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
    <a href="https://github.com/Arbazkhan-cs/Enactus-Project"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Arbazkhan-cs&repo=Enactus-Project&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
   </p> -->
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=Arbazkhan-cs&theme=darkhub">
 
-# Contributions
+## Contributions
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arbazkhan-cs&theme=react-dark">
 
 <!-- https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub -->
