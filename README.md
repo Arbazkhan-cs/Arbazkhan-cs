@@ -32,8 +32,7 @@
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Arbazkhan-cs&theme=gruvbox&bg_color=#5bcdec" height="180em"/>
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Arbazkhan-cs&theme=gruvbox&bg_color=#5bcdec" height="180em"/>
     <br> <br>
-<!--     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arbazkhan-cs&theme=gruvbox&bg_color=151515"/> -->
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arbazkhan-cs&theme=react-dark">
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arbazkhan-cs&theme=gruvbox&bg_color=151515"/>
   </a>
 </div>
 
@@ -53,5 +52,9 @@
   </p> -->
 # 🏆 GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=Arbazkhan-cs&theme=darkhub">
+
+# Contributions
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arbazkhan-cs&theme=react-dark">
+
 <!-- https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub -->
 <!-- https://github-profile-trophy.vercel.app/?username=Arbazkhan-cs&title=Commits,Repositories,Experience,Starts,Followers -->
