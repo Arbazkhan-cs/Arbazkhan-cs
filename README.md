@@ -33,7 +33,7 @@
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Arbazkhan-cs&theme=gruvbox&bg_color=151515" height="180em"/>
     <br> <br>
 <!--     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arbazkhan-cs&theme=gruvbox&bg_color=151515"/> -->
-    <img scr="[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Arbazkhan-cs&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)">
+    [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Arbazkhan-cs&theme=react-dark)](https://github.com/Arbazkhan-cs/github-readme-activity-graph)
   </a>
 </div>
 
