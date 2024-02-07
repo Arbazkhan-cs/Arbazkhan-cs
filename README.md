@@ -1,4 +1,4 @@
-<img src="./arbaz.PNG">
+<img src="./banner_msit.jpg">
 
 <h1 align="center">Hi 👋, I'm Arbaz Khan</h1>
 <a href="https://github.com/Arbazkhan-cs">
