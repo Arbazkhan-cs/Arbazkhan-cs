@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Arbaz Khan</h1>
 <a href="https://github.com/Arbazkhan-cs">
   <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=A%20Passionate%20Data%20Scienctist%20And%20Machine%20Learning%20Engineer&center=true&width=800&height=40&color=ffffff&vCenter=true&pause=1000&size=25" /> <br> 
+  <img src="https://readme-typing-svg.demolab.com/?lines=A%20Passionate%20Data%20Scienctist%20And%20Machine%20Learning%20Engineer&center=true&width=800&height=40&color=#fac151&vCenter=true&pause=1000&size=25" /> <br> 
   </p>
 </a> 
 
@@ -61,7 +61,7 @@
 ## 🎉 Contributions
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arbazkhan-cs&theme=react-dark">
 
-<img src="https://komarev.com/ghpvc/?username=natterstefan&color=FAC151">
+<img src="https://komarev.com/ghpvc/?username=arbazkhan-cs&color=FAC151">
 
 <!-- https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub -->
 <!-- https://github-profile-trophy.vercel.app/?username=Arbazkhan-cs&title=Commits,Repositories,Experience,Starts,Followers -->
