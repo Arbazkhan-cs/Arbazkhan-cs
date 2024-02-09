@@ -62,6 +62,8 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arbazkhan-cs&theme=react-dark">
 
 <img src="https://komarev.com/ghpvc/?username=arbazkhan-cs&color=FAC151">
-
+<a href="https://www.linkedin.com/in/arbazkhan-cs/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 <!-- https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub -->
 <!-- https://github-profile-trophy.vercel.app/?username=Arbazkhan-cs&title=Commits,Repositories,Experience,Starts,Followers -->
