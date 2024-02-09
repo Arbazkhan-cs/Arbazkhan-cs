@@ -61,9 +61,9 @@
 ## 🎉 Contributions
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arbazkhan-cs&theme=react-dark">
 
-<img src="https://komarev.com/ghpvc/?username=arbazkhan-cs&color=FAC151">
-<a href="https://www.linkedin.com/in/arbazkhan-cs/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+<pre>
+  <img src="https://komarev.com/ghpvc/?username=arbazkhan-cs&color=FAC151"> <a href="https://www.linkedin.com/in/arbazkhan-cs/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href=mailto:"arbazkhaan.cs@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a> 
+</pre>
+
 <!-- https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub -->
 <!-- https://github-profile-trophy.vercel.app/?username=Arbazkhan-cs&title=Commits,Repositories,Experience,Starts,Followers -->
