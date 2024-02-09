@@ -11,54 +11,30 @@
   <img align="right" alt="Codding" width="400" src="https://github.com/Arbazkhan-cs/Arbazkhan-cs/blob/main/Site-Stats-unscreen.gif">
 </a> <br>
 
-## 👤 About Me 
-- 📚 Pursuing BCA Specialisation in AI course <br>
-- 🤝 Collaborated on a website for Enactus Organization's MSI Branch <br>
-- 🧠 Passion for Data Science and Machine Learning <br>
-- 🔍 Gained Some Learning: supervised machine learning, pandas, matplotlib, TensorFlow, scikit-learn, and more<br>
-- 🏆 Completed projects: AI-Powered Image Captioning, Recommandation System, etc<br>
-- 🌟 Thrilling journey with a willingness to learn and experiment <br>
-- 🚀 Excited about the possibilities in Data Science and Machine Learning for the future <br> <br>
+# 💫 About Me:
+📚 Pursuing BCA Specialisation in AI course<br>🤝 Collaborated on a website for Enactus Organization's MSI Branch<br>🧠 Passion for Data Science and Machine Learning<br>🔍 Gained Some Learning: supervised machine learning, pandas, matplotlib, TensorFlow, scikit-learn, and more<br>🏆 Completed projects: AI-Powered Image Captioning, Recommandation System, etc<br>🌟 Thrilling journey with a willingness to learn and experiment<br>🚀 Excited about the possibilities in Data Science and Machine Learning for the future 
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arbazkhan-cs) 
 
-## 🛠️ Language And Tools 📚
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <br> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p> <br>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=arbazkhan-cs&theme=yeblu&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=arbazkhan-cs&theme=yeblu&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arbazkhan-cs&theme=yeblu&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-## 📝 My Stats:
-<div align="center">
-  <a href="https://github.com/Arbazkhan-cs">
-<!--   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Arbazkhan-cs&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515"> -->
-    <br>
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Arbazkhan-cs&theme=gruvbox&bg_color=#5bcdec" height="180em"/>
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Arbazkhan-cs&theme=gruvbox&bg_color=#5bcdec" height="180em"/>
-    <br> <br>
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arbazkhan-cs&theme=gruvbox&bg_color=151515"/>
-  </a>
-</div> <br>
-
-
-## 🚀 Activity On GitHub
-<p align="center">
-  <a href="https://github.com/Arbazkhan-cs">      
-<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Arbazkhan-cs&theme=dark&hide_border=true&stroke=f53b3b"/>
-  </a> 
-</p> <br>
-
-
-<!--## Top Respositorys
-  <p align="left">
-     <a href="https://github.com/Arbazkhan-cs/AI-Powered-Image-Captioning"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Arbazkhan-cs&repo=AI-Powered-Image-Captioning&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/Arbazkhan-cs/Movies-Recommend-System"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Arbazkhan-cs&repo=Movies-Recommend-System&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-   <a href="https://github.com/Arbazkhan-cs/Enactus-Project"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Arbazkhan-cs&repo=Enactus-Project&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-  </p> -->
-  
 ## 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=Arbazkhan-cs&theme=darkhub"> <br>
+![](https://github-profile-trophy.vercel.app/?username=arbazkhan-cs&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 🎉 Contributions
+---
+[![](https://visitcount.itsvg.in/api?id=arbazkhan-cs&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## 🎉 Contributions
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arbazkhan-cs&theme=react-dark">
 
 <pre>
