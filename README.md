@@ -1,6 +1,6 @@
 <img src="./msit.jpeg">
 
-<h1 align="center">Hi 👋, I'm Arbaz Khan</h1>
+<h1 align="center">Hi 👋, I'm Arbaz Khan</h1> 
 <a href="https://github.com/Arbazkhan-cs">
   <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=A%20Passionate%20Data%20Scienctist%20And%20Machine%20Learning%20Engineer&center=true&width=800&height=40&color=ffffff&vCenter=true&pause=1000&size=25" /> <br> 
