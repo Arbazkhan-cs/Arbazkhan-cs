@@ -33,7 +33,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=arbazkhan-cs&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4)
 
-## Contribution Snake
+## 🐍 Snake eating my contribution graph
 ![snake gif](https://github.com/Arbazkhan-cs/Arbazkhan-cs/blob/output/github-contribution-grid-snake.gif)
 
 ### ✍️ Random Dev Quote
