@@ -22,7 +22,7 @@
 <a href="https://github.com/Arbazkhan-cs" align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arbazkhan-cs&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false" align="center", width="365rem">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arbazkhan-cs&theme=highcontrast&hide_border=false" align="center", width="400rem"><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arbazkhan-cs&theme=react-dark">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arbazkhan-cs&theme=github-compact">
 </a>
 
 
