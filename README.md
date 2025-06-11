@@ -12,7 +12,7 @@
 </a> <br>
 
 # 💫 About Me:
-📚 Pursuing BCA Specialisation in AI course<br>🤝 Collaborated on a website for Enactus Organization's MSI Branch<br>🧠 Passion for Data Science and Machine Learning<br>🔍 Gained Some Learning: supervised machine learning, pandas, matplotlib, TensorFlow, scikit-learn, and more<br>🏆 Completed projects: AI-Powered Image Captioning, Recommandation System, etc<br>🌟 Thrilling journey with a willingness to learn and experiment<br>🚀 Excited about the possibilities in Data Science and Machine Learning for the future 
+🎓 I'm a recent graduate in Computer Application with a specialization in Artificial Intelligence. <br>💡 Passionate about Artificial Intelligence, Machine Learning, and building real-world intelligent systems.<br>🧠 Skilled in Python, AWS, with hands-on experience in deep learning, NLP, and data-driven solutions.<br>🚀 I enjoy working with tools like PyTorch, TensorFlow, LangChain, Hugging Face, and Docker to bring AI ideas to life.<br>📈 Always eager to learn, grow, and contribute to innovative AI communities and open-source projects.
 
 
 ## 🌐 Socials:
@@ -28,10 +28,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arbazkhan-cs&theme=highcontrast&hide_border=false" align="center", width="400rem"><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arbazkhan-cs&theme=react-dark">
 </a>
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=arbazkhan-cs&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4)
 
 <!-- 
 ## 🐍 Snake eating my contribution graph
