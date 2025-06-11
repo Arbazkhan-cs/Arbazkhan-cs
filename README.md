@@ -7,10 +7,6 @@
   </p>
 </a> 
 
-<a href="https://github.com/Arbazkhan-cs">
-  <img align="right" alt="Codding" width="400" src="https://github.com/Arbazkhan-cs/Arbazkhan-cs/blob/main/Site-Stats-unscreen.gif">
-</a> <br>
-
 # 💫 About Me:
 🎓 I'm a recent graduate in Computer Application with a specialization in Artificial Intelligence. <br>💡 Passionate about Artificial Intelligence, Machine Learning, and building real-world intelligent systems.<br>🧠 Skilled in Python, AWS, with hands-on experience in deep learning, NLP, and data-driven solutions.<br>🚀 I enjoy working with tools like PyTorch, TensorFlow, LangChain, Hugging Face, and Docker to bring AI ideas to life.<br>📈 Always eager to learn, grow, and contribute to innovative AI communities and open-source projects.
 
