@@ -1,4 +1,4 @@
-<img src="./msit.jpeg"> 
+<img src="./msit.jpeg">
 
 <h1 align="center">Hi 👋, I'm Arbaz Khan</h1> 
 <a href="https://github.com/Arbazkhan-cs"> 
